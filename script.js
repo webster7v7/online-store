@@ -76,5 +76,5 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
     
-    console.log('小白网店页面加载完成！');
+    console.log('webster网店页面加载完成！');
 });
